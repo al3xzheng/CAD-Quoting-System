@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\bin\Debug\pic.png
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\bin\Debug\SolidWorks.BlankAddin1.dll
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\bin\Debug\SolidWorks.BlankAddin1.pdb
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.TaskpaneHostUI.resources
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.dll
+C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidWorks.BlankAddin1\obj\Debug\SolidWorks.BlankAddin1.pdb

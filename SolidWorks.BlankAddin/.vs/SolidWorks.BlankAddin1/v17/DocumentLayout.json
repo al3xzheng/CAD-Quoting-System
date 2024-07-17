@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|c:\\users\\alex\\documents\\problemsolving\\cadquotes\\solidworks.blankaddin1\\taskpaneintegration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|solutionrelative:taskpaneintegration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|c:\\users\\alex\\documents\\problemsolving\\cadquotes\\solidworks.blankaddin1\\taskpanehostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|solutionrelative:taskpanehostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|c:\\users\\alex\\documents\\problemsolving\\cadquotes\\solidworks.blankaddin1\\taskpanehostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAB899EA-C93C-4CFE-994B-781568B4C910}|SolidWorks.BlankAddin1.csproj|solutionrelative:taskpanehostui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskpaneHostUI.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneHostUI.cs",
+              "RelativeDocumentMoniker": "TaskpaneHostUI.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneHostUI.cs",
+              "RelativeToolTip": "TaskpaneHostUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:54:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskpaneHostUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneHostUI.cs",
+              "RelativeDocumentMoniker": "TaskpaneHostUI.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneHostUI.cs [Design]",
+              "RelativeToolTip": "TaskpaneHostUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:53:47.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskpaneIntegration1.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneIntegration1.cs",
+              "RelativeDocumentMoniker": "TaskpaneIntegration1.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\ProblemSolving\\CADQuotes\\SolidWorks.BlankAddin1\\TaskpaneIntegration1.cs",
+              "RelativeToolTip": "TaskpaneIntegration1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwJoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:45:58.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

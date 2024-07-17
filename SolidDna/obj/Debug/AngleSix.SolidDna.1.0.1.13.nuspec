@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AngleSix.SolidDna</id>
+    <version>1.0.1.13</version>
+    <authors>Luke Malpass</authors>
+    <projectUrl>https://github.com/angelsix/solidworks-api</projectUrl>
+    <description>The new SolidDNA SDK, making the SolidWorks API easier, well behaved and modern</description>
+    <copyright>Copyright © 2016-2020</copyright>
+    <tags>soliddna solidworks angelsix luke malpass api</tags>
+    <repository type="git" url="https://github.com/angelsix/solidworks-api" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Dna.Framework" version="1.0.7.19" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.IO" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Runtime" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Algorithms" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Encoding" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Primitives" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.X509Certificates" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Windows.Forms" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.7.2" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alex\Documents\ProblemSolving\CADQuotes\SolidDna\bin\Debug\net472\AngleSix.SolidDna.dll" target="lib\net472\AngleSix.SolidDna.dll" />
+  </files>
+</package>
