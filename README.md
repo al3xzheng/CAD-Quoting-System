@@ -9,12 +9,15 @@ This UI allows you the select a file to be quote and will display the quoted pri
 
 The SolidWorks API is gracefully used to access a SolidWorks file's properties (material, surface area, edges, corners, etc.) in order to accurately quote.
 
-The basis for quoting is based on the price to do CNC (Computer Numerical Control) manufacturing on said SolidWorks part/assembly. 
-This serves as an accurate quoting software that allows for an automated client-pricing program for mechanical manufacturers.
+The basis for quoting is based on the price to do 3D-print said SolidWorks part/assembly. 
+This serves as an accurate quoting software that allows for an automated client-pricing program for mechanical designers and manufacturers.
 
-The quoting algorithm can be obtained from previous CNC manufacturing data and feeding the previously priced SolidWorks part/assembly into our application to get the data on how a part's properties affect the price. This data can be obtained by clients who use this application, such as CNC manufacturers test manufacturing parts to generate data, or potentially online. 
-Then we can build an 'AI model' with regression models that accurately maps and weighs how each property affects the difficulty to CNC, and thus the price. 
-Finally with this done, we can input a SolidWorks part/assembly and get a quote! And after the part is manufactured we can fine-tune the model with true manufacturing price. Therefore making
+The quoting algorithm can be obtained from previous 3D-printing data and feeding the previously priced SolidWorks part/assembly into our application to get the data on how a part's properties affects the price. This data can be obtained by clients who use this application, and by test printing parts to generate data.
+Then we can build an 'AI model' with regression models that accurately maps and weighs how each property affects the difficulty to 3D-print, and thus the price.
+
+Finally with this done, we can input a SolidWorks part/assembly and get a quote! And after the part is 3D-printed we can fine-tune the model with the true 3D-printing price. Therefore making
 this software improve with use.
 
-This project is not finished and is currently in the works. Feel free to connect and message me on LinkedIn to know more about it or for a chat on anything! @ https://www.linkedin.com/in/al3xzheng/ 
+This project is not finished and is currently in the works. Feel free to connect and message me on LinkedIn to know more about it or for a chat on anything! @ https://www.linkedin.com/in/al3xzheng/
+
+In the future, to expand industry use, we will add the feature to quote CNC (Computer Numerical Control) manufacturing!
